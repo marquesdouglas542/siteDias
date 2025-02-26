@@ -9,7 +9,7 @@ function mostrarMensagem(mensagem) {
     // Esconde a mensagem após 3 segundos
     setTimeout(() => {
         mensagemElemento.classList.remove('show');
-    }, 3000);
+    }, 4000);
 }
 
 // Contador de dias desde 01/09/2024
